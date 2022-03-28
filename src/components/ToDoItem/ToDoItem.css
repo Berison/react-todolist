@@ -1,0 +1,20 @@
+.todo_inner {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #000;
+  max-width: 200px;
+  margin: 10px auto;
+}
+
+.todo_inner.checked {
+  opacity: .5;
+}
+
+.todo_inner p {
+  font-size: 22px;
+  display: inline;
+}
+
+.todo_btn {
+  margin-left: 10px;
+}

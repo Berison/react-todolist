@@ -1,0 +1,9 @@
+.input-inner {
+  margin-bottom: 20px;
+}
+
+.input-inner input {
+  padding: 10px;
+  border: 1px solid #000;
+  margin: 0;
+}
